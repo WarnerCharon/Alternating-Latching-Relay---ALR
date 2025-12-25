@@ -1,5 +1,3 @@
-SPDX-License-Identifier: CERN-OHL-S-2.0
-SPDX-License-Identifier: AGPL-3.0-only
 
 # Alternating-Latching-Relay---ALR
 Alternating Latching Relay
