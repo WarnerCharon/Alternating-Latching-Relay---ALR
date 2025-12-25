@@ -23,6 +23,7 @@ All schematics, BOM, documentation, and mechanical relay design files are publis
 
 
 專案說明
+
 本專案是一個 開源硬體設計，實現類似 棘輪機構或雙穩開關（bistable switch） 功能的繼電器模組，採用 機械繼電器、觸點切換與自保持（self-holding）電路 為核心設計。保持型繼電器（Latching Relay）能在輸入脈衝後維持狀態而無需持續線圈供電，具備良好的狀態記憶與低功耗特性。 
 
 模組的核心功能為 切換與保持繼電器邏輯，透過控制脈衝來設定或重置繼電器觸點位置，類似機械棘輪機構的切換與鎖定行為，使電控系統在收到控制訊號後保持輸出狀態，直到下一次脈衝觸發。 
