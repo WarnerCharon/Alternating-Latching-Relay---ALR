@@ -145,7 +145,9 @@ Module loses state memory after power loss. Requires reinitialization after powe
 
 ## License 授權條款
 
-**Hardware:** CERN Open Hardware Licence Version 2.0 - Permissive
+**Hardware:** CERN Open Hardware Licence Strong Reciprocal Version 2.0 (CERN-OHL-S-2.0)
+
+**Software:** GNU Affero General Public License v3.0 only (AGPL-3.0-only)
 
 **Documentation:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
@@ -153,6 +155,9 @@ Module loses state memory after power loss. Requires reinitialization after powe
 
 ~~本專案已通過 OSHWA 開源硬體認證。~~
 
+This project is applying for OSHWA open source hardware certification.
+
+本專案申請 OSHWA 開源硬體認證中。
 
 ## Keywords 關鍵字
 
