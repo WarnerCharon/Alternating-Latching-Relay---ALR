@@ -143,36 +143,6 @@ Module loses state memory after power loss. Requires reinitialization after powe
 
 模組斷電後將失去狀態記憶。重新上電後需重新初始化。
 
-## Documentation 文件資料
-
-- [Assembly Guide 組裝指南](documentation/assembly-guide.md)
-- [Bill of Materials (BOM) 零件清單](documentation/bom.csv)
-- [Circuit Schematic 電路圖](hardware/schematic/)
-- [PCB Design Files PCB 設計檔](hardware/pcb/)
-- [User Manual 使用手冊](documentation/user-manual.md)
-
-## Project Structure 專案結構
-```
-Alternating-Latching-Relay/
-├── README.md
-├── LICENSE
-├── hardware/
-│   ├── schematic/          Circuit schematics 電路圖
-│   ├── pcb/                PCB design files PCB 設計檔
-│   └── gerber/             Gerber manufacturing files Gerber 製造檔
-├── documentation/
-│   ├── assembly-guide.md   Assembly instructions 組裝說明
-│   ├── user-manual.md      User manual 使用手冊
-│   ├── bom.csv             Bill of materials 零件清單
-│   └── design-notes.md     Design documentation 設計說明
-├── images/
-│   ├── product-photo.jpg
-│   ├── circuit-diagram.png
-│   └── application-demo.jpg
-└── tests/
-    └── test-results.md     Testing documentation 測試文件
-```
-
 ## License 授權條款
 
 **Hardware:** CERN Open Hardware Licence Version 2.0 - Permissive
@@ -188,35 +158,6 @@ This project is certified as open source hardware by OSHWA.
 Latching Relay, Self-Holding Circuit, Mechanical Relay, Bistable Switch, Relay Logic, Mechanical Latching, Industrial Control, Automation Control, Control Circuit, Switching Circuit, Power Switching, Home Automation
 
 保持電驛, 自保持電路, 機械式繼電器, 雙穩態開關, 繼電器邏輯, 機械鎖存, 工業控制, 自動化控制, 控制電路, 切換電路, 電力開關, 家庭自動化
-
-## Author 作者
-
-[Your Name 您的名字]
-
-[Your Email 您的電子郵件]
-
-[Your Organization 您的組織]
-
-## Contributing 貢獻
-
-Contributions are welcome! Please feel free to submit issues and pull requests.
-
-歡迎貢獻！請隨時提交問題和拉取請求。
-
-## Contact 聯絡方式
-
-For questions or suggestions, please contact:
-
-如有問題或建議，請聯絡：
-
-- Email: [your-email@example.com]
-- GitHub Issues: [Link to Issues Page]
-
-## Acknowledgments 致謝
-
-Special thanks to the open source hardware community and all contributors.
-
-特別感謝開源硬體社群和所有貢獻者。
 
 ---
 
