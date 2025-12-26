@@ -2,8 +2,8 @@
 
 交替保持繼電器模組
 
-[![License](https://img.shields.io/badge/License-CERN%20OHL%20v2.0-blue)](LICENSE)
-[![OSHWA](https://img.shields.io/badge/OSHWA-Certified-brightgreen)](https://certification.oshwa.org/)
+[![License](https://img.shields.io/badge/License-CERN%20OHL%20S%202.0%20%7C%20AGPL%203.0%20%7C%20CC%20BY%204.0-blue)](LICENSE/)
+[![OSHWA](https://img.shields.io/badge/OSHWA-Applying-yellow)](https://certification.oshwa.org/)
 
 ## Overview 概述
 
