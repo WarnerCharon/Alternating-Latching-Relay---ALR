@@ -149,9 +149,10 @@ Module loses state memory after power loss. Requires reinitialization after powe
 
 **Documentation:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-This project is certified as open source hardware by OSHWA.
+~~This project is certified as open source hardware by OSHWA.~~
 
-本專案已通過 OSHWA 開源硬體認證。
+~~本專案已通過 OSHWA 開源硬體認證。~~
+
 
 ## Keywords 關鍵字
 
