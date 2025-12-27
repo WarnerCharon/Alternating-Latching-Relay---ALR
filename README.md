@@ -25,18 +25,18 @@ The **Alternating-Latching-Relay Module** provides **Sequential Alternating Outp
 | Parameter 參數 | Specification 規格 |
 |----------------|-------------------|
 | Operating Voltage 工作電壓 | DC 12V |
-| Trigger Method 觸發方式 | Positive voltage, pulse width ≥15ms 正電壓，脈衝寬度 ≥15ms |
+| Trigger Method 觸發方式 | Positive voltage, pulse width ≥15ms 正電壓，脈衝寬度 ≥0.3s |
 | Memory Retention 記憶保持 | State maintained after trigger release 觸發斷路後狀態保持 |
 | Output Form 輸出形式 | SPDT (1 set NO/NC contacts) 一組常開/常閉接點 |
-| Contact Rating 接點容量 | 5A (resistive load) 5A（阻性負載）|
+| Contact Rating 接點容量 | 2A (resistive load) 2A（阻性負載）|
 | Trigger Input Type 觸發輸入 | Positive voltage trigger 正電壓觸發 |
 | Response Time 反應時間 | Mechanical switching time 機械轉換時間 |
 
 ## How It Works 工作原理
 
-This module functions as an **electrified ratchet switching mechanism**, achieving state memory and alternating control through relay logic. Each momentary trigger pulse (≥15ms) advances the output to the next state in sequence, which is then held until the next trigger.
+This module functions as an **electrified ratchet switching mechanism**, achieving state memory and alternating control through relay logic. Each momentary trigger pulse (≥0.3s) advances the output to the next state in sequence, which is then held until the next trigger.
 
-本模組的動作行為等同於**電氣化的棘輪式切換機制**，以繼電器邏輯完成狀態記憶與交替控制。每次瞬時觸發脈衝（≥15ms）使輸出前進到下一個狀態序列，並保持該狀態直到下次觸發。
+本模組的動作行為等同於**電氣化的棘輪式切換機制**，以繼電器邏輯完成狀態記憶與交替控制。每次瞬時觸發脈衝（≥0.3ms）使輸出前進到下一個狀態序列，並保持該狀態直到下次觸發。
 
 **Operation Sequence 動作序列:**
 ```
