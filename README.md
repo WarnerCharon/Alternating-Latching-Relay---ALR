@@ -25,7 +25,7 @@ The **Alternating-Latching-Relay Module** provides **Sequential Alternating Outp
 | Parameter 參數 | Specification 規格 |
 |----------------|-------------------|
 | Operating Voltage 工作電壓 | DC 12V |
-| Trigger Method 觸發方式 | Positive voltage, pulse width ≥15ms 正電壓，脈衝寬度 ≥0.5s |
+| Trigger Method 觸發方式 | Positive voltage, pulse width ≥0.5s 正電壓，脈衝寬度 ≥0.5s |
 | Memory Retention 記憶保持 | State maintained after trigger release 觸發斷路後狀態保持 |
 | Output Form 輸出形式 | SPDT (1 set NO/NC contacts) 一組常開/常閉接點 |
 | Contact Rating 接點容量 | 2A (resistive load) 2A（阻性負載）|
