@@ -3,7 +3,7 @@
 交替保持繼電器模組
 
 [![License](https://img.shields.io/badge/License-CERN%20OHL%20S%202.0%20%7C%20AGPL%203.0%20%7C%20CC%20BY%204.0-blue)](LICENSE/)
-[![OSHWA](https://img.shields.io/badge/OSHWA-Applying-yellow)](https://certification.oshwa.org/)
+[![OSHWA](https://img.shields.io/badge/OSHWA-Certified-green)](https://certification.oshwa.org/US000008)
 
 ## Overview 概述
 
@@ -151,13 +151,9 @@ Module loses state memory after power loss. Requires reinitialization after powe
 
 **Documentation:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-~~This project is certified as open source hardware by OSHWA.~~
+This project is certified as open source hardware by OSHWA.
 
-~~本專案已通過 OSHWA 開源硬體認證。~~
-
-This project is applying for OSHWA open source hardware certification.
-
-本專案申請 OSHWA 開源硬體認證中。
+本專案已通過 OSHWA 開源硬體認證。
 
 ## Keywords 關鍵字
 
