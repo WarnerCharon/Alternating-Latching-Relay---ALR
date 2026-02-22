@@ -99,12 +99,6 @@ Trigger Input 觸發輸入:
   Trigger Signal (+) ──→ Trigger Input
   (Pulse ≥0.5s)
 
-Output Contacts 輸出接點:
-  COM ──→ Common
-  NO  ──→ Normally Open 常開
-  NC  ──→ Normally Closed 常閉
-```
-
 ### Typical Application 典型應用
 ```
 [Trigger Source] → [Trigger Input] → [Module Logic] → [Output Contacts] → [Load Device]
@@ -127,9 +121,9 @@ Pulse width must be ≥0.3s, shorter pulses may fail to trigger.
 
 **Contact Rating 接點容量**
 
-Load current should not exceed 3A (resistive load).
+Load current should not exceed 2A (resistive load).
 
-負載電流不應超過 3A（阻性負載）。
+負載電流不應超過 2A（阻性負載）。
 
 **Inductive Loads 感性負載**
 
